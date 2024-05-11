@@ -6,7 +6,7 @@ This is a very simple but useful application to generate mathematical function g
 
 ## Installation
 
-Follow these to install math_graphs viewer V1.0.0
+Follow these instructions to install math_graphs viewer V1.0.0
 
 ```bash
   git clone https://github.com/koyelkalita/math_graphs
