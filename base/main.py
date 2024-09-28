@@ -108,7 +108,7 @@ class MainWindow(QMainWindow):
         QMessageBox.information(self, 'Contribute', 'You can contribute to this project on GitHub.')
 
     def about(self):
-        QMessageBox.about(self, 'About', 'Mathematical Function Viewer\nVersion 1.0\nDeveloped by Md Rasel Mandol')
+        QMessageBox.about(self, 'About', 'Mathematical Function Viewer\nVersion 1.0')
 
     def parse_function(self, function_str):
         try:
